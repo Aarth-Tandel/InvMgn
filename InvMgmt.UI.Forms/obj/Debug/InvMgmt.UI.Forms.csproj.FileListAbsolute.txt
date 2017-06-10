@@ -1,0 +1,13 @@
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\bin\Debug\InvMgmt.UI.Forms.exe.config
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\bin\Debug\InvMgmt.UI.Forms.exe
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\bin\Debug\InvMgmt.UI.Forms.pdb
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\obj\Debug\InvMgmt.UI.Forms.csprojResolveAssemblyReference.cache
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\obj\Debug\InvMgmt.UI.Forms.frmMain.resources
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\obj\Debug\InvMgmt.UI.Forms.Properties.Resources.resources
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\obj\Debug\InvMgmt.UI.Forms.csproj.GenerateResource.Cache
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\obj\Debug\InvMgmt.UI.Forms.exe
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\obj\Debug\InvMgmt.UI.Forms.pdb
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\obj\Debug\InvMgmt.UI.Forms.frmManageMLPart.resources
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\bin\Debug\InvMgmtCommon.dll
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\bin\Debug\InvMgmtCommon.pdb
+F:\Aarth\InvMgmt\InvMgmt\InvMgmt.UI.Forms\obj\Debug\InvMgmt.UI.Forms.frmManageMLPen.resources

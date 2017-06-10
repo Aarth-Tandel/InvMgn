@@ -1,0 +1,10 @@
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtCommon\bin\Debug\InvMgmtCommon.dll
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtCommon\bin\Debug\InvMgmtCommon.pdb
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtCommon\obj\Debug\InvMgmtCommon.dll
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtCommon\obj\Debug\InvMgmtCommon.pdb
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtCommon\obj\Debug\InvMgmtCommon.csprojResolveAssemblyReference.cache
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtCommon\bin\Debug\InvMgmtCommon.dll
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtCommon\bin\Debug\InvMgmtCommon.pdb
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtCommon\obj\Debug\InvMgmtCommon.csprojResolveAssemblyReference.cache
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtCommon\obj\Debug\InvMgmtCommon.dll
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtCommon\obj\Debug\InvMgmtCommon.pdb

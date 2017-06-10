@@ -1,0 +1,16 @@
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtConsoleApp.exe.config
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtConsoleApp.exe
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtConsoleApp.pdb
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtCommon.dll
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtCommon.pdb
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtConsoleApp\obj\Debug\InvMgmtConsoleApp.csprojResolveAssemblyReference.cache
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtConsoleApp\obj\Debug\InvMgmtConsoleApp.exe
+F:\Aarth\InvMgmt\InvMgmt\InvMgmtConsoleApp\obj\Debug\InvMgmtConsoleApp.pdb
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtConsoleApp.exe.config
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtConsoleApp.exe
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtConsoleApp.pdb
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtCommon.dll
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtConsoleApp\bin\Debug\InvMgmtCommon.pdb
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtConsoleApp\obj\Debug\InvMgmtConsoleApp.csprojResolveAssemblyReference.cache
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtConsoleApp\obj\Debug\InvMgmtConsoleApp.exe
+D:\Aarth\Programming\Dot Net\InvMgmt\InvMgmt\InvMgmtConsoleApp\obj\Debug\InvMgmtConsoleApp.pdb
